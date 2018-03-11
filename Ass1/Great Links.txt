@@ -1,0 +1,32 @@
+Net stat
+
+
+All options explained
+http://www.binarytides.com/linux-netstat-command-examples/
+
+
+netstat -at explained with connection statuses 
+https://www.techrepublic.com/article/netstat-base-parameters-can-help-you-troubleshoot-tcp-ip-problems/
+
+Loopback interface 
+https://www.juniper.net/documentation/en_US/junos/topics/concept/interface-security-loopback-understanding.html
+
+complete netstat 
+https://www.computerhope.com/unix/unetstat.htm
+
+route 
+https://www.computerhope.com/unix/route.htm
+
+routing table
+https://www.computerhope.com/jargon/r/routing_table.htm
+https://www.cyberciti.biz/faq/what-is-a-routing-table/
+
+different types of routing
+https://www.computerhope.com/jargon/r/route.html
+
+
+Routing video must watch
+https://www.youtube.com/watch?v=C5YfkR8LGm0
+
+Bucky networks 
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO

@@ -1,0 +1,16 @@
+Sample,Sample1,Sample2,Sample3
+Time of Day,6pm,11pm,7:30am
+Host A,192.168.163.1,192.168.163.1,192.168.163.1
+Port A,40714,57958,50736
+Host B,202.141.80.24,202.141.80.24,202.141.80.24
+Port B,3128,3128,3128
+Throughput from A to B (bps),791,1657,1928
+Throughput from B to A (bps),5783,28k,45k
+RTT(ms),8.3,19.39,13.9
+Average Packet size(bytes),725,1219.95,1582.5
+No. of packets lost,0,5,4
+No. of TCP packets,160,441,503
+No. of UDP packets,0,0,
+No. of TCP packets from A to B,80,207,240
+No. of TCP packets from B to A,80,234,263
+No. of Responses wrt to requests sent,1,1.13,1.096
